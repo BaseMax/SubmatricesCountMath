@@ -20,3 +20,119 @@ m deleted.
 We present an alternate one-dimensional solution that generalizes to two dimensions.
 
 We achieve a O(n2) time solution to the submatrix character count problem over a finite alphabet and a O(n2 log m) solution over an infinite alphabet.
+
+
+## Result, Research :
+
+For see all of the results, click [here](result.txt) to open the result file.
+
+```
+INPUT = AAAAAAA
+INPUT = AAAAAAA
+N = 7
+M = 1
+R = 1111111
+RD = 1
+--------------
+INPUT = AAAAAAA
+INPUT = AAAAAAA
+N = 7
+M = 2
+R = 111111
+RD = 1
+--------------
+INPUT = AAAAAAA
+INPUT = AAAAAAA
+N = 7
+M = 3
+R = 11111
+RD = 1
+--------------
+INPUT = AAAAAAA
+INPUT = AAAAAAA
+N = 7
+M = 4
+R = 1111
+RD = 1
+--------------
+INPUT = AAAAAAA
+INPUT = AAAAAAA
+N = 7
+M = 5
+R = 111
+RD = 1
+--------------
+INPUT = AAAAAAA
+INPUT = AAAAAAA
+N = 7
+M = 6
+R = 11
+RD = 1
+--------------
+INPUT = AAAAAAA
+INPUT = AAAAAAA
+N = 7
+M = 7
+R = 1
+RD = 1
+--------------
+INPUT = AAAAAAB
+INPUT = AAAAAAB
+N = 7
+M = 1
+R = 1111111
+RD = 1
+--------------
+INPUT = AAAAAAB
+INPUT = AAAAAAB
+N = 7
+M = 2
+R = 111112
+RD = 12
+--------------
+INPUT = AAAAAAB
+INPUT = AAAAAAB
+N = 7
+M = 3
+R = 11112
+RD = 12
+--------------
+INPUT = AAAAAAB
+INPUT = AAAAAAB
+N = 7
+M = 4
+R = 1112
+RD = 12
+--------------
+INPUT = AAAAAAB
+INPUT = AAAAAAB
+N = 7
+M = 5
+R = 112
+RD = 12
+--------------
+INPUT = AAAAAAB
+INPUT = AAAAAAB
+N = 7
+M = 6
+R = 12
+RD = 12
+--------------
+INPUT = AAAAAAB
+INPUT = AAAAAAB
+N = 7
+M = 7
+R = 2
+RD = 2
+--------------
+INPUT = AAAAAAC
+INPUT = AAAAAAC
+N = 7
+M = 1
+R = 1111111
+RD = 1
+--------------
+```
+
+For see all of the results, click [here](result.txt) to open the result file.
+
