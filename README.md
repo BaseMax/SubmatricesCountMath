@@ -2,6 +2,9 @@
 
 Research: The submatrices character count problem: an efficient solution using separable values.
 
+My education fields are **Pure Mathematics**.
+I love math and I hope mathematics can help me to create better programs.
+
 ## Article / Abstract
 
 The subsequence character count problem has as its input an array S = S[1], ... , S[n] of symbols over alphabet A and a natural number m.
@@ -135,4 +138,3 @@ RD = 1
 ```
 
 For see all of the results, click [here](result.txt) to open the result file.
-
